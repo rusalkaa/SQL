@@ -1,2 +1,2 @@
 # SQL
-SQL Exercises from Patika.dev 
+PostgreSQL Exercises from Patika.dev 
